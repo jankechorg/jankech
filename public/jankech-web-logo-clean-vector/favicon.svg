@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 130" role="img" aria-label="OJ">
+<defs>
+  <linearGradient id="cursorBlue" x1="0" y1="0" x2="0.45" y2="1">
+    <stop offset="0" stop-color="#2EAEFF"/>
+    <stop offset="1" stop-color="#2055F4"/>
+  </linearGradient>
+</defs>
+<g fill="#08112A">
+  <path d="M 58.73,116.98 A 52,50.5 0 1 1 110.75,77.52 L 89.22,67.75 A 28.25,27.5 0 1 0 58.49,93.89 L 58.73,116.98 Z"/>
+  <path d="M 125,21 L 147.75,21 L 147.75,82.5 C 147.75,103.9 134.2,116.75 113.8,116.75 L 91,116.75 L 91,99.15 C 103.9,99.15 114.4,96.7 120.0,91.0 C 123.4,87.6 125,84.1 125,79.9 L 125,21 Z"/>
+</g>
+<path d="M 64,61 L 110,89 L 86,97 L 65,120 Z" fill="url(#cursorBlue)" stroke="#FFFFFF" stroke-width="4.5" stroke-linejoin="round"/>
+</svg>
